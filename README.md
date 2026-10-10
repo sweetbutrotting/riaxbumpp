@@ -1,7 +1,7 @@
 
 # BumppLib
 
-A clean, pink UI library for Roblox. Draggable window, sidebar tabs, welcome card, color picker, hide keybind and smooth animations.
+A clean UI library for Roblox. Draggable window, sidebar tabs, welcome card, color picker, hide keybind and smooth animations.
 
 
 <img width="637" height="413" alt="image" src="https://github.com/user-attachments/assets/1fecf800-c474-416e-99ac-c2e820dd9574" />
