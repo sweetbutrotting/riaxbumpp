@@ -27,14 +27,14 @@ A clean, pink UI library for Roblox. Draggable window, sidebar tabs, welcome car
 **As a module:** put everything above the `EXAMPLE` marker in a `ModuleScript`, add `return Library` at the end, then:
 
 ```lua
-local Library = require(path.to.PinkLib)
+local Library = require(path.to.BumppLib)
 ```
 
 ## Usage
 
 ```lua
 local Window = Library:CreateWindow({
-	Title = "Pinkie",
+	Title = "Bumpp",
 	Subtitle = "Hub",
 	ToggleKey = Enum.KeyCode.RightShift,
 })
